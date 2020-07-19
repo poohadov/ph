@@ -1,0 +1,164 @@
+body{
+    background-color: rgb(168, 219, 219);
+}
+
+.maps{
+    position: absolute;
+}
+
+#map1{
+    margin-left: 45.15%;
+    margin-top: 0.1%;
+    /* height: 13.4vh; */
+    width: 3.69vw;
+    height: auto;
+    /* max-width: 2.69vw; */
+}
+
+#map2{
+    margin-left: 39.42%;
+    margin-top: 3.2%;
+    /* height: 11.3vh; */
+    width: 6.7vw;
+    height: auto;
+    /* max-width: 5.7vw; */
+}
+
+#map3{
+    margin-left: 38.1%;
+    margin-top: 6.9%;
+    /* height: 8.8vh; */
+    width: 7.8vw;
+    height: auto;
+    /* max-width: 6.8vw; */
+}
+
+#map4{
+    margin-top: 9.99%;
+    margin-left: 36.22%;
+    width: 9.67vw;
+    /* height: 33vh; */
+    height: auto;
+    /* max-width:  8.67vw; */
+}
+
+#map5{
+    margin-top: 10.5%;
+    margin-left: 33.5%;
+    /* height: 21.7vh; */
+    width: 5.7vw;
+    height: auto;
+    /* max-width: 4.7vw; */
+}
+
+#map6{
+    margin-left: 38.63%;
+    margin-top: 19.7%;
+    /* height: 3vh; */
+    width: 3vw;
+    height: auto;
+    /* max-width: 2vw; */
+}
+
+#map7{
+    margin-left: 30.34%;
+    margin-top: 23.3%;
+    width: 12.2vw;
+    /* height: 34.6vh; */
+    height: auto;
+    /* max-width: 11.2vw; */
+
+}
+
+#map8{
+    margin-left: 36.59%;
+    margin-top: 30.99%;
+    /* height: 30vh; */
+    width: 6.6vw;
+    height: auto;
+    /* max-width: 5.6vw; */
+}
+
+
+
+#div1{
+    /* background-color: rgb(208, 243, 243); */
+}
+
+.glowMaps{
+    position: absolute;
+    display: none;
+}
+
+#glowMap1{
+    margin-left: 42.7%;
+    margin-top: -1.6%;
+    /* height: 13.4vh; */
+    width: 8.5vw;
+    height: auto;
+    /* max-width: 2.69vw; */
+}
+
+#glowMap2{
+    margin-left: 37.9%;
+    margin-top: 1.6%;
+    /* height: 11.3vh; */
+    width: 9.79vw;
+    height: auto;
+    /* max-width: 5.7vw; */
+}
+
+#glowMap3{
+    margin-left: 35.38%;
+    margin-top: 5.4%;
+    /* height: 8.8vh; */
+    width: 12vw;
+    height: auto;
+    /* max-width: 6.8vw; */
+}
+
+#glowMap4{
+    margin-top: 8.57%;
+    margin-left: 34.7%;
+    width: 12.69vw;
+    /* height: 33vh; */
+    height: auto;
+    /* max-width: 8.67vw; */
+}
+
+#glowMap5{
+    margin-top: 8.99%;
+    margin-left: 31.7%;
+    /* height: 21.7vh; */
+    width: 8.98vw;
+    height: auto;
+    /* max-width: 4.7vw; */
+}
+
+#glowMap6{
+    margin-left: 35.96%;
+    margin-top: 18.22%;
+    /* height: 3vh; */
+    width: 8vw;
+    height: auto;
+    /* max-width: 2vw; */
+}
+
+#glowMap7{
+    margin-left: 28.86%;
+    margin-top: 21.79%;
+    width: 15.22vw;
+    /* height: 34.6vh; */
+    height: auto;
+    /* max-width: 11.2vw; */
+
+}
+
+#glowMap8{
+    margin-left: 33.76%;
+    margin-top: 29.5%;
+    /* height: 30vh; */
+    width: 10.9vw;
+    height: auto;
+    /* max-width: 5.6vw; */
+}
